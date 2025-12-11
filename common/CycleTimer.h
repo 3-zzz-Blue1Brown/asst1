@@ -3,6 +3,8 @@
 
 #include <chrono>
 #include <cstdint>
+#include <cstring>
+#include <cstdlib>
 
 class CycleTimer {
  public:
